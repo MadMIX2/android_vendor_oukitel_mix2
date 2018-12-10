@@ -14,7 +14,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),mix_2)
+ifeq ($(TARGET_DEVICE),mix2)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := EngineerMode
